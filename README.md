@@ -10,7 +10,16 @@ Our matching algorithm then identifies and suggests compatible connections based
 
 ## How we built it
 
-Our platform is built on two core algorithms: a partner matching system and an activity recommendation engine. The matching system used a [speed dating dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/speed-dating/data) from Kaggle to pre-train our gradient boosting model, which predicts compatibility scores between users. We developed a data pipeline that processes user inputs through our local database to match the model's required format. The activity recommendation system combines web-scraped campus resources with user characteristics to generate personalized suggestions. The system is implemented through a Streamlit interface foruser interaction.
+Our platform is built on two core algorithms: a partner matching system and an activity recommendation engine. The matching system used a [speed dating dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/speed-dating/data) from Kaggle to pre-train our gradient boosting model, which predicts compatibility scores between users. We developed a data pipeline that processes user inputs through our local database to match the model's required format. The activity recommendation system combines web-scraped campus resources with user characteristics to generate personalized suggestions. The system is implemented through a Streamlit interface foruser interaction. 
+
+For our research and model training which is supervised learning, we needed a dataset that has labels, in this case a variable that shows whether the matching was successful or not. 
+
+From the kaggle dataset, we only kept the features that affect the matching results based on our domain knowledge, in which we added interaction term, multiplying difference variable and scale variable to capture non-linearity of impact of personal preferences on matching probability. We trained our model with this dataset, which has 4000 cases and achieved 88% accuracy in predicting the matching result.
+
+To put our model in practical use, we created match predictor file. In match_predictor, user is prompted to enter his information.
+Then the program will compare user input data with each row in sample user database, calculating the match probability score for each row. 
+we stored all the probability values for each row and sorted it from largest to smallest, so that the program can return top 10 candidates with highest matching probability.
+
 
 ## Challenges we ran into
 
