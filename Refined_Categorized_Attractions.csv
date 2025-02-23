@@ -1,0 +1,69 @@
+cat                     ,site                                           ,url                                                        ,features
+Attractions             ,Aldo Leopold Nature Center                     ,https://aldoleopoldnaturecenter.org                        ,hiking
+Attractions             ,Henry Vilas Zoo                                ,https://www.henryvilaszoo.gov                              ,museums
+Attractions             ,Memorial Union Terrace                         ,https://union.wisc.edu                                     ,dining|music
+Attractions             ,Monona Terrace                                 ,https://www.mononaterrace.com                              ,concerts|theater
+Attractions             ,Olbrich Botanical Gardens                      ,https://www.olbrich.org                                    ,hiking|art
+Attractions             ,Overture Center for the Arts                   ,https://www.overture.org                                   ,theater|concerts
+Attractions             ,UW-Madison Arboretum                           ,https://arboretum.wisc.edu                                 ,hiking
+Attractions             ,Wisconsin State Capitol Tours                  ,https://tours.wisconsin.gov                                ,museums
+Downtown                ,Downtown Eateries                              ,https://visitdowntownmadison.com                           ,dining
+Downtown                ,Downtown Nightlife                             ,https://visitdowntownmadison.com                           ,clubbing|music
+Downtown                ,Shopping                                       ,https://www.visitmadison.com                               ,shopping
+Special Events          ,Art Fair on the Square                         ,https://www.mmoca.org                                      ,art|shopping
+Special Events          ,Brat Fest                                      ,https://bratfest.com                                       ,dining|music
+Special Events          ,Concerts on the Square                         ,https://wcoconcerts.org                                    ,concerts|music
+Special Events          ,Jazz at Five                                   ,https://jazzatfive.org                                     ,concerts|music
+Special Events          ,Madison Marathon                               ,https://www.madisonmarathon.org                            ,sports|exercise
+Special Events          ,Make Music Madison                             ,https://www.makemusicmadison.org                           ,concerts|music
+Special Events          ,Opera in the Park                              ,https://www.madisonopera.org                               ,concerts|theater|music
+Special Events          ,Orton Park Festival                            ,https://www.marquette-neighborhood.org                     ,concerts|dining
+Special Events          ,Paddle & Portage                               ,https://paddleandportage.com                               ,sports|hiking
+Special Events          ,Ride the Drive                                 ,https://www.cityofmadison.com/parks/ridethedrive           ,sports|exercise
+Children & Families     ,Blooming Butterflies                           ,https://www.olbrich.org                                    ,museums|hiking
+Children & Families     ,Children's Theater of Madison                  ,https://ctmtheater.org                                     ,theater
+Children & Families     ,Goodman Pool                                   ,https://www.cityofmadison.com/parks/pool                   ,sports|exercise
+Children & Families     ,Kids in the Rotunda                            ,https://www.overture.org                                   ,theater
+Children & Families     ,L.R. Ingersoll Physics Museum                  ,https://www.physics.wisc.edu                               ,museums
+Children & Families     ,Madison Children's Museum                      ,https://madisonchildrensmuseum.org                         ,museums
+Children & Families     ,UW-Madison Space Place                         ,https://spaceplace.wisc.edu                                ,museums
+Restaurants & Nightlife ,Dane County Farmers' Market                    ,https://www.dcfm.org                                       ,shopping|dining
+Restaurants & Nightlife ,Madison Restaurants                            ,https://www.visitmadison.com                               ,dining
+Restaurants & Nightlife ,"Breweries, Wineries & Spirits"                ,https://www.visitmadison.com                               ,dining
+Shopping                ,Downtown Shops                                 ,https://visitdowntownmadison.com                           ,shopping
+Shopping                ,Local Markets                                  ,https://www.cityofmadison.com/visit-play/shopping          ,shopping|dining
+Lakes                   ,Lake Activities                                ,https://www.cityofmadison.com/visit-play/lakes             ,sports|hiking
+Parks                   ,Madison Parks                                  ,https://www.cityofmadison.com/parks/                       ,hiking|sports
+Recreation & Sports     ,Biking in Madison                              ,https://www.cityofmadison.com/visit-play/recreation-sports ,sports|exercise
+Recreation & Sports     ,Golf Courses                                   ,https://www.cityofmadison.com/visit-play/recreation-sports ,sports
+Recreation & Sports     ,Goodman Pool                                   ,https://www.cityofmadison.com/visit-play/recreation-sports ,sports|exercise
+Recreation & Sports     ,"Hiking, Madison Parks"                        ,https://www.cityofmadison.com/visit-play/recreation-sports ,hiking
+Recreation & Sports     ,"Ice Rinks (Outdoor), Madison Parks"           ,https://www.cityofmadison.com/visit-play/recreation-sports ,hiking
+Recreation & Sports     ,Madison Adventure Tours (eBikes)               ,https://www.cityofmadison.com/visit-play/recreation-sports ,sports|exercise|gaming
+Recreation & Sports     ,Madison B-Cycle                                ,https://www.cityofmadison.com/visit-play/recreation-sports ,sports|exercise
+Recreation & Sports     ,Madison Circus Space                           ,https://www.cityofmadison.com/visit-play/recreation-sports ,sports|exercise|gaming|concerts
+Recreation & Sports     ,Madison Curling Club                           ,https://www.cityofmadison.com/visit-play/recreation-sports ,clubbing|music
+Recreation & Sports     ,Madison Log Rolling                            ,https://www.cityofmadison.com/visit-play/recreation-sports ,sports|exercise|hiking|gaming
+Recreation & Sports     ,Madison Roller Derby                           ,https://www.cityofmadison.com/visit-play/recreation-sports ,sports|tvsports|exercise|gaming
+Recreation & Sports     ,Madison Ultimate Frisbee Association           ,https://www.cityofmadison.com/visit-play/recreation-sports ,sports|tvsports|exercise|gaming
+Recreation & Sports     ,Mendota Rowing Club                            ,https://www.cityofmadison.com/visit-play/recreation-sports ,clubbing|music
+Recreation & Sports     ,Sledding Hills                                 ,https://www.cityofmadison.com/visit-play/recreation-sports ,sports|exercise|hiking
+Recreation & Sports     ,UW-Madison Arboretum                           ,https://www.cityofmadison.com/visit-play/recreation-sports ,hiking
+Art                     ,"Art Galleries, Destination Madison"           ,https://www.cityofmadison.com/visit-play/art               ,art|museums
+Art                     ,Chazen Museum of Art                           ,https://www.cityofmadison.com/visit-play/art               ,art|museums
+Art                     ,Madison Museum of Contemporary Art             ,https://www.cityofmadison.com/visit-play/art               ,art|museums
+Art                     ,Monona Terrace Exhibits                        ,https://www.cityofmadison.com/visit-play/art               ,art|museums
+Art                     ,Overture Center Galleries                      ,https://www.cityofmadison.com/visit-play/art               ,museums|art
+Art                     ,The Bubbler at Madison Public Library          ,https://www.cityofmadison.com/visit-play/art               ,reading
+Music                   ,Bach Dancing & Dynamite Society of Wisconsin   ,https://www.cityofmadison.com/visit-play/music             ,concerts|music
+Music                   ,"Concerts and Live Music, Destination Madison" ,https://www.cityofmadison.com/visit-play/music             ,concerts|music
+Music                   ,Concerts on the Rooftop at Monona Terrace      ,https://www.cityofmadison.com/visit-play/music             ,concerts|music
+Music                   ,Concerts on the Square                         ,https://www.cityofmadison.com/visit-play/music             ,concerts|music
+Music                   ,Dane Dances at Monona Terrace                  ,https://www.cityofmadison.com/visit-play/music             ,clubbing|theater|concerts|music
+Music                   ,Fresco Opera Theatre Company                   ,https://www.cityofmadison.com/visit-play/music             ,theater|concerts|music
+Music                   ,Jazz at Five                                   ,https://www.cityofmadison.com/visit-play/music             ,concerts|music
+Music                   ,"Live on King Street, Majestic Theatre"        ,https://www.cityofmadison.com/visit-play/music             ,music|theater|concerts
+Music                   ,Madison Bach Musicians                         ,https://www.cityofmadison.com/visit-play/music             ,art|concerts|music
+Music                   ,Madison Music Collective                       ,https://www.cityofmadison.com/visit-play/music             ,art|concerts|music
+Music                   ,Madison Opera                                  ,https://www.cityofmadison.com/visit-play/music             ,art|theater|concerts|music
+Music                   ,Madison Symphony Orchestra                     ,https://www.cityofmadison.com/                             ,concerts|music
