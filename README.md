@@ -36,3 +36,12 @@ In the current AI era, we realized that creating effective solutions for meaning
 ## What's next for MadLuv
 
 As UW-Madison students, we are deeply committed to enhancing our campus community. After launch, we plan to leverage user data to continuously refine our recommendation model, making it even more effective at creating meaningful connections. Security remains a vital priority - we will implement robust protection measures and advanced detection systems for malicious behavior. We want to provide fellow Badgers with a secure, trustworthy platform they can enhance their social life in madison.
+
+
+
+## Team Members:
+Zhiyuan Jin
+Changyong Kwak @samkwak188
+Jonghyun Kim @jonghyuneya
+Jiyoo Paek
+William Kang
