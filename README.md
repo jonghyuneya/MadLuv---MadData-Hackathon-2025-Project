@@ -41,7 +41,7 @@ As UW-Madison students, we are deeply committed to enhancing our campus communit
 
 ## Team Members:
 Zhiyuan Jin
-Changyong Kwak @samkwak188
-Jonghyun Kim @jonghyuneya
+Changyong Kwak [@samkwak188]
+Jonghyun Kim [@jonghyuneya]
 Jiyoo Paek
 William Kang
